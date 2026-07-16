@@ -126,21 +126,16 @@ The database consists of 9 interconnected tables:
 ## 📷 Sample Outputs
 
 ### Revenue Contribution by Restaurant
-
-<img width="924" height="789" alt="image" src="https://github.com/user-attachments/assets/bde01dad-6d34-4506-80c0-13bc331f6e41" />
+<img width="793" height="463" alt="image" src="https://github.com/user-attachments/assets/5e78ea07-0aa8-44f0-9d04-9e5b95229d7a" />
 
 
 ### Month-over-Month Revenue Growth using LAG()
-<img width="949" height="729" alt="image" src="https://github.com/user-attachments/assets/a8b92f13-d654-43f4-8cdd-ceda18d49ff7" />
-<img width="1008" height="452" alt="image" src="https://github.com/user-attachments/assets/361347a4-5bc6-4482-a976-90a7ff5ae0f3" />
-
-
+<img width="812" height="493" alt="image" src="https://github.com/user-attachments/assets/937400eb-3f08-4707-8f4d-ff484d42568f" />
 
 
 ### Top Customers Analysis
-<img width="839" height="701" alt="image" src="https://github.com/user-attachments/assets/427e14f9-db3f-49c6-8aea-eb82b40c12d7" />
-<img width="1072" height="523" alt="image" src="https://github.com/user-attachments/assets/af89f4e5-0038-40b2-816d-7b8bd03eb897" />
-<img width="766" height="459" alt="image" src="https://github.com/user-attachments/assets/88487709-2c12-4b0c-b9c5-a2e58eb72c89" />
+
+<img width="801" height="507" alt="image" src="https://github.com/user-attachments/assets/ff4a8c8b-6dc5-450d-864c-b6cd290b7519" />
 
 
 
