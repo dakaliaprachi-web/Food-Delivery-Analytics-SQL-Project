@@ -127,15 +127,22 @@ The database consists of 9 interconnected tables:
 
 ### Revenue Contribution by Restaurant
 
-![Revenue Analysis](screenshots/revenue_contribution.png)
+<img width="924" height="789" alt="image" src="https://github.com/user-attachments/assets/bde01dad-6d34-4506-80c0-13bc331f6e41" />
+
 
 ### Month-over-Month Revenue Growth using LAG()
+<img width="949" height="729" alt="image" src="https://github.com/user-attachments/assets/a8b92f13-d654-43f4-8cdd-ceda18d49ff7" />
+<img width="1008" height="452" alt="image" src="https://github.com/user-attachments/assets/361347a4-5bc6-4482-a976-90a7ff5ae0f3" />
 
-![MoM Growth](screenshots/mom_growth_lag.png)
+
+
 
 ### Top Customers Analysis
+<img width="839" height="701" alt="image" src="https://github.com/user-attachments/assets/427e14f9-db3f-49c6-8aea-eb82b40c12d7" />
+<img width="1072" height="523" alt="image" src="https://github.com/user-attachments/assets/af89f4e5-0038-40b2-816d-7b8bd03eb897" />
+<img width="766" height="459" alt="image" src="https://github.com/user-attachments/assets/88487709-2c12-4b0c-b9c5-a2e58eb72c89" />
 
-![Top Customers](screenshots/top_customers.png)
+
 
 ---
 
