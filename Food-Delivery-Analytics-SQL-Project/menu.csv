@@ -1,0 +1,301 @@
+Item_Id,restaurant_id,Item_Name,Price,Category
+101,13,Manchurian,339,non-veg
+102,18,Fish Curry,105,veg
+103,22,Dal Makhani,374,non-veg
+104,25,Pasta Alfredo,274,veg
+105,10,Chole Bhature,180,non-veg
+106,1,Spring Roll,468,non-veg
+107,17,Cheese Pizza,191,veg
+108,28,Pasta Alfredo,252,veg
+109,5,Grilled Chicken,490,veg
+110,18,Cheese Pizza,371,veg
+111,20,Litti Chokha,350,veg
+112,4,Rajma Chawal,285,non-veg
+113,8,Chicken Biryani,223,veg
+114,3,Spring Roll,348,veg
+115,25,Chicken Momos,492,veg
+116,5,White Sauce Pasta,343,veg
+117,9,Tandoori Roti,410,non-veg
+118,7,Rajma Chawal,376,veg
+119,23,Amritsari Kulcha,304,non-veg
+120,15,Dal Makhani,364,non-veg
+121,4,Gujarati Thali,215,veg
+122,11,Paneer Butter Masala,401,veg
+123,19,Gujarati Thali,103,veg
+124,23,Pasta Alfredo,130,veg
+125,3,Dal Makhani,116,non-veg
+126,3,Tandoori Roti,221,non-veg
+127,22,Butter Chicken,209,veg
+128,24,Rajma Chawal,392,non-veg
+129,8,Farmhouse Pizza,342,non-veg
+130,7,Chicken Pizza,149,non-veg
+131,12,Chole Bhature,310,non-veg
+132,28,Spring Roll,127,veg
+133,2,Hakka Noodles,472,non-veg
+134,26,Fish Curry,155,veg
+135,7,Mutton Curry,374,non-veg
+136,5,Chole Bhature,193,non-veg
+137,15,Gujarati Thali,138,non-veg
+138,26,Fish Curry,381,veg
+139,2,Pasta Alfredo,376,veg
+140,3,Rajma Chawal,485,veg
+141,6,Chole Bhature,348,non-veg
+142,7,Fish Curry,305,veg
+143,6,Hakka Noodles,101,non-veg
+144,9,Rajma Chawal,332,non-veg
+145,14,Red Sauce Pasta,474,non-veg
+146,5,Mutton Curry,251,veg
+147,2,Veg Momos,476,veg
+148,24,Litti Chokha,129,veg
+149,19,Butter Chicken,357,veg
+150,2,Tandoori Roti,141,veg
+151,3,Manchurian,134,veg
+152,13,Chicken Pizza,391,veg
+153,19,Manchurian,120,veg
+154,14,White Sauce Pasta,398,non-veg
+155,30,Chicken Roll,204,non-veg
+156,8,Chicken Roll,302,veg
+157,22,Pasta Alfredo,253,non-veg
+158,11,Rajma Chawal,484,veg
+159,1,Veg Fried Rice,418,veg
+160,3,Chicken Momos,209,non-veg
+161,5,Rajma Chawal,278,veg
+162,29,Gujarati Thali,289,non-veg
+163,6,Veg Fried Rice,378,non-veg
+164,20,Farmhouse Pizza,434,veg
+165,22,Chicken Tikka,383,non-veg
+166,30,White Sauce Pasta,153,veg
+167,9,Chicken Pizza,154,veg
+168,9,Amritsari Kulcha,409,veg
+169,23,Litti Chokha,204,non-veg
+170,17,Butter Chicken,228,veg
+171,3,Pasta Alfredo,316,non-veg
+172,2,Paneer Butter Masala,270,veg
+173,21,Chicken Roll,182,non-veg
+174,18,Red Sauce Pasta,318,veg
+175,4,Veg Burger,453,veg
+176,18,Chicken Biryani,289,veg
+177,14,Masala Dosa,121,non-veg
+178,12,Dal Makhani,120,non-veg
+179,7,White Sauce Pasta,227,veg
+180,12,Cheese Pizza,386,non-veg
+181,20,Spring Roll,179,veg
+182,28,Pav Bhaji,190,non-veg
+183,1,Pav Bhaji,477,non-veg
+184,26,Rajma Chawal,310,veg
+185,9,Pav Bhaji,459,veg
+186,13,Fish Curry,119,non-veg
+187,8,Mutton Curry,335,non-veg
+188,10,Chicken Tikka,216,veg
+189,1,White Sauce Pasta,198,non-veg
+190,11,Chicken Roll,135,non-veg
+191,12,Pasta Alfredo,360,non-veg
+192,22,Chicken Tikka,374,non-veg
+193,1,Chicken Pizza,233,veg
+194,19,Chicken Roll,119,veg
+195,20,Chole Bhature,276,non-veg
+196,14,Manchurian,361,veg
+197,13,Dal Makhani,395,veg
+198,9,Chicken Biryani,462,non-veg
+199,1,Tandoori Roti,375,veg
+200,12,Chole Bhature,135,non-veg
+201,20,Litti Chokha,439,veg
+202,24,Dal Makhani,253,non-veg
+203,22,Chole Bhature,267,non-veg
+204,23,Amritsari Kulcha,383,veg
+205,7,Chole Bhature,440,non-veg
+206,22,Spring Roll,189,non-veg
+207,13,Chicken Momos,100,non-veg
+208,10,Mutton Curry,320,non-veg
+209,15,Veg Fried Rice,326,veg
+210,17,Butter Chicken,476,veg
+211,22,Veg Burger,245,non-veg
+212,3,Chicken Tikka,484,veg
+213,22,Amritsari Kulcha,215,veg
+214,5,Paneer Butter Masala,123,veg
+215,16,Manchurian,493,veg
+216,15,Chole Bhature,422,veg
+217,23,Red Sauce Pasta,296,non-veg
+218,13,Gujarati Thali,175,veg
+219,29,Cheese Pizza,494,veg
+220,25,Chole Bhature,212,veg
+221,26,Red Sauce Pasta,365,non-veg
+222,2,Chicken Momos,227,veg
+223,15,Masala Dosa,337,non-veg
+224,25,Dal Makhani,326,non-veg
+225,27,Rajma Chawal,380,non-veg
+226,29,Pav Bhaji,480,non-veg
+227,15,Chicken Roll,484,veg
+228,27,Pasta Alfredo,241,non-veg
+229,21,Gujarati Thali,240,non-veg
+230,3,Red Sauce Pasta,246,veg
+231,9,Litti Chokha,263,veg
+232,5,Masala Dosa,218,non-veg
+233,23,Masala Dosa,461,veg
+234,3,Chole Bhature,308,non-veg
+235,18,Veg Fried Rice,312,veg
+236,7,Chicken Tikka,315,non-veg
+237,29,Cheese Pizza,399,veg
+238,28,Dal Makhani,491,non-veg
+239,16,Paneer Butter Masala,280,non-veg
+240,25,Hakka Noodles,314,veg
+241,16,Gujarati Thali,239,non-veg
+242,16,Paneer Butter Masala,299,non-veg
+243,22,White Sauce Pasta,307,veg
+244,27,Veg Fried Rice,165,veg
+245,30,Hakka Noodles,403,veg
+246,3,Pasta Alfredo,319,veg
+247,28,Veg Fried Rice,193,veg
+248,9,Hakka Noodles,267,veg
+249,15,Litti Chokha,272,non-veg
+250,9,Cheese Pizza,315,non-veg
+251,27,Veg Burger,340,veg
+252,24,Chicken Momos,126,non-veg
+253,8,Pasta Alfredo,135,veg
+254,25,Paneer Butter Masala,226,veg
+255,27,Paneer Butter Masala,418,veg
+256,8,Masala Dosa,342,veg
+257,19,Mutton Curry,338,non-veg
+258,25,Grilled Chicken,185,veg
+259,25,Chicken Tikka,183,non-veg
+260,4,Veg Momos,113,non-veg
+261,19,White Sauce Pasta,292,non-veg
+262,23,Mutton Curry,138,veg
+263,4,Red Sauce Pasta,495,non-veg
+264,28,White Sauce Pasta,407,veg
+265,26,Veg Momos,500,veg
+266,12,Chicken Momos,319,non-veg
+267,3,Tandoori Roti,431,non-veg
+268,1,Fish Curry,315,non-veg
+269,4,Chole Bhature,285,non-veg
+270,23,Masala Dosa,322,veg
+271,24,Tandoori Roti,433,non-veg
+272,20,Farmhouse Pizza,375,non-veg
+273,15,Chole Bhature,474,non-veg
+274,11,Fish Curry,225,veg
+275,9,Dal Makhani,330,veg
+276,25,Veg Fried Rice,391,non-veg
+277,11,Paneer Butter Masala,353,non-veg
+278,6,Butter Chicken,208,non-veg
+279,26,Chicken Roll,274,non-veg
+280,29,Manchurian,459,non-veg
+281,18,Paneer Butter Masala,364,veg
+282,3,Gujarati Thali,468,non-veg
+283,16,Chicken Momos,488,veg
+284,23,Butter Chicken,430,non-veg
+285,15,Farmhouse Pizza,108,veg
+286,10,Gujarati Thali,307,veg
+287,10,White Sauce Pasta,397,non-veg
+288,16,Chicken Momos,371,non-veg
+289,14,Spring Roll,381,non-veg
+290,12,Red Sauce Pasta,332,non-veg
+291,10,Chicken Roll,218,veg
+292,24,Mutton Curry,261,veg
+293,24,Chicken Momos,490,veg
+294,7,Mutton Curry,478,non-veg
+295,9,Spring Roll,401,non-veg
+296,4,Chicken Tikka,199,non-veg
+297,8,Grilled Chicken,191,non-veg
+298,1,Red Sauce Pasta,373,veg
+299,9,Chicken Biryani,127,non-veg
+300,23,Masala Dosa,426,non-veg
+301,4,Fish Curry,106,non-veg
+302,16,Butter Chicken,325,non-veg
+303,6,Chicken Biryani,229,non-veg
+304,4,Chicken Tikka,133,non-veg
+305,16,Veg Burger,395,veg
+306,5,Masala Dosa,388,non-veg
+307,3,Gujarati Thali,160,non-veg
+308,20,Manchurian,416,veg
+309,25,Tandoori Roti,294,non-veg
+310,30,Veg Fried Rice,252,non-veg
+311,10,Veg Momos,417,veg
+312,20,Spring Roll,150,veg
+313,21,Mutton Curry,235,veg
+314,6,Gujarati Thali,188,veg
+315,6,Paneer Butter Masala,309,non-veg
+316,23,Manchurian,340,non-veg
+317,2,Gujarati Thali,247,non-veg
+318,23,Fish Curry,332,veg
+319,22,Gujarati Thali,235,veg
+320,14,Chicken Pizza,378,veg
+321,21,Masala Dosa,236,veg
+322,3,Chicken Biryani,184,non-veg
+323,20,Spring Roll,391,non-veg
+324,15,Chicken Pizza,339,non-veg
+325,23,Hakka Noodles,239,non-veg
+326,15,Veg Burger,406,veg
+327,29,Chole Bhature,476,non-veg
+328,20,Chicken Roll,113,veg
+329,8,White Sauce Pasta,394,veg
+330,25,White Sauce Pasta,237,veg
+331,25,Cheese Pizza,189,non-veg
+332,17,Pasta Alfredo,326,non-veg
+333,6,Veg Momos,323,non-veg
+334,3,Butter Chicken,278,non-veg
+335,11,Litti Chokha,443,veg
+336,28,Pav Bhaji,268,non-veg
+337,23,Butter Chicken,247,non-veg
+338,27,Cheese Pizza,381,veg
+339,15,Veg Burger,261,non-veg
+340,11,Chicken Pizza,495,non-veg
+341,28,Tandoori Roti,100,non-veg
+342,14,Chicken Biryani,196,non-veg
+343,20,Cheese Pizza,355,non-veg
+344,25,Chicken Biryani,204,non-veg
+345,18,Masala Dosa,247,non-veg
+346,29,Red Sauce Pasta,348,veg
+347,1,Pasta Alfredo,411,veg
+348,23,Pav Bhaji,259,veg
+349,18,Chole Bhature,147,veg
+350,27,Rajma Chawal,158,non-veg
+351,4,Pasta Alfredo,178,non-veg
+352,30,Red Sauce Pasta,249,non-veg
+353,14,Chicken Tikka,347,non-veg
+354,8,Veg Fried Rice,382,veg
+355,13,Mutton Curry,406,veg
+356,28,Veg Burger,241,non-veg
+357,11,Rajma Chawal,359,non-veg
+358,27,Paneer Butter Masala,244,non-veg
+359,27,Veg Momos,396,non-veg
+360,28,Masala Dosa,328,non-veg
+361,12,Litti Chokha,382,non-veg
+362,15,Rajma Chawal,264,veg
+363,23,Gujarati Thali,392,non-veg
+364,8,Fish Curry,497,non-veg
+365,2,Litti Chokha,481,non-veg
+366,23,Rajma Chawal,295,non-veg
+367,22,Farmhouse Pizza,433,veg
+368,16,Chicken Biryani,164,non-veg
+369,28,Chicken Pizza,325,veg
+370,17,Rajma Chawal,333,veg
+371,24,Masala Dosa,309,veg
+372,3,Butter Chicken,500,non-veg
+373,11,Manchurian,454,non-veg
+374,21,Veg Burger,268,non-veg
+375,11,Pasta Alfredo,467,non-veg
+376,28,Chicken Momos,118,veg
+377,8,Pasta Alfredo,450,non-veg
+378,8,Spring Roll,146,non-veg
+379,4,Cheese Pizza,424,veg
+380,15,Pav Bhaji,455,non-veg
+381,29,Paneer Butter Masala,123,non-veg
+382,26,Chicken Biryani,250,non-veg
+383,12,Chole Bhature,174,veg
+384,17,Chole Bhature,389,veg
+385,6,Pav Bhaji,140,non-veg
+386,20,White Sauce Pasta,223,non-veg
+387,30,Veg Momos,173,veg
+388,15,Pasta Alfredo,230,non-veg
+389,9,White Sauce Pasta,104,non-veg
+390,29,Amritsari Kulcha,446,veg
+391,3,Veg Fried Rice,276,non-veg
+392,21,Chole Bhature,453,non-veg
+393,15,Fish Curry,254,veg
+394,13,Fish Curry,347,veg
+395,8,Hakka Noodles,392,non-veg
+396,19,Amritsari Kulcha,458,non-veg
+397,1,Chicken Tikka,437,non-veg
+398,9,Paneer Butter Masala,389,veg
+399,30,Manchurian,481,non-veg
+400,27,Dal Makhani,246,veg
